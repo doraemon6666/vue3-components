@@ -1,0 +1,12 @@
+
+.shop-copy{
+    font-size: var(--rcd-font-size-14x);
+    line-height: var(--rcd-line-height-22);
+    color: var(--rcd-color-text-400);
+    .icon {
+       cursor: pointer;
+       margin-left: 5px;
+       color: var(--rcd-color-text-200);
+    }
+ }
+ 
